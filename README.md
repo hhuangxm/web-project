@@ -1,10 +1,11 @@
 # web-project
 
 > vue init webpack project
-#啰嗦几句话，用了vue-cli脚手架来初始化的项目
-# 装了很多东西，个人感觉作为单页面应用有点笨重了，package.json文件有点大，所以下次，我打算自己来配置webpack
-# 初始化的这个项目就将就着用吧
-# 把主要用到的技术列一下：ES6, Vue2, vue-router, webpack, element-ui
+## 啰嗦几句话，
+>用了vue-cli脚手架来初始化的项目
+>装了很多东西，个人感觉作为单页面应用有点笨重了，package.json文件有点大，所以下次，我打算自己来配置webpack
+>初始化的这个项目就将就着用吧
+>把主要用到的技术列一下：ES6, Vue2, vue-router, webpack, element-ui
 
 ## Build Setup
 
