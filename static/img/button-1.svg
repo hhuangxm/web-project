@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="组_30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 95 30" style="enable-background:new 0 0 95 30;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#156764;}
+	.st2{fill:#2BEDE6;}
+</style>
+<g>
+	<g id="渐变背景_拷贝">
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1002" y1="-842.25" x2="1002" y2="-813.25" gradientTransform="matrix(1 0 0 -1 -954.5 -812.75)">
+			<stop  offset="0" style="stop-color:#2BEDE6;stop-opacity:0.2"/>
+			<stop  offset="1" style="stop-color:#2BEDE6;stop-opacity:0.102"/>
+		</linearGradient>
+		<polygon class="st0" points="0.5,29.5 0.5,0.5 94.5,0.5 94.5,19.8 84.8,29.5 		"/>
+		<path class="st1" d="M94,1v18.6L84.6,29H1V1H94 M95,0H0v30h85l10-10V0L95,0z"/>
+	</g>
+	<g id="渐变背景_拷贝_12">
+		<polygon class="st2" points="95,5.5 94,5.5 94,1 89.5,1 89.5,0 95,0 		"/>
+	</g>
+	<g id="渐变背景_拷贝_12_1_">
+		<polygon class="st2" points="5.5,0 5.5,1 1,1 1,5.5 0,5.5 0,0 		"/>
+	</g>
+	<g id="渐变背景_拷贝_12_2_">
+		<polygon class="st2" points="0,24.5 1,24.5 1,29 5.5,29 5.5,30 0,30 		"/>
+	</g>
+</g>
+</svg>

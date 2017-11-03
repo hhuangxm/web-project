@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="组_17" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 36 36" style="enable-background:new 0 0 36 36;" xml:space="preserve" preserveAspectRatio="none">
+<style type="text/css">
+	.st0{fill:#F7D245;}
+	.st1{fill:url(#形状_6_1_);stroke:#F8D347;stroke-width:2;}
+	.st2{fill:url(#形状_6_拷贝_1_);stroke:#F8D347;stroke-width:2;}
+</style>
+<g>
+	<g id="椭圆_1">
+		<path class="st0" d="M18.2,3.5c8.3,0,15,6.7,15,15s-6.7,15-15,15s-15-6.7-15-15S10,3.5,18.2,3.5 M18.2,1.5c-9.4,0-17,7.6-17,17
+			s7.6,17,17,17s17-7.6,17-17S27.6,1.5,18.2,1.5L18.2,1.5z"/>
+	</g>
+	<g id="组_20">
+		
+			<linearGradient id="形状_6_1_" gradientUnits="userSpaceOnUse" x1="832.75" y1="-396" x2="847.7499" y2="-396" gradientTransform="matrix(1 0 0 -1 -822 -377)">
+			<stop  offset="0" style="stop-color:#26A5DA"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<path id="形状_6" class="st1" d="M25.7,11.5l-15,15"/>
+		
+			<linearGradient id="形状_6_拷贝_1_" gradientUnits="userSpaceOnUse" x1="832.7501" y1="-396.1865" x2="847.377" y2="-396.1865" gradientTransform="matrix(1 0 0 -1 -822 -377)">
+			<stop  offset="0" style="stop-color:#26A5DA"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</linearGradient>
+		<path id="形状_6_拷贝" class="st2" d="M25.4,26.5L10.8,11.9"/>
+	</g>
+</g>
+</svg>
