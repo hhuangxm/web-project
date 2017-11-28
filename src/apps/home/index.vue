@@ -6,6 +6,7 @@
       <div :style="clockMin" id="min"></div>
       <div :style="clockHour" id="hour"></div>
     </div>
+
     <div id="renderer" style="width: 100%, height: 800px;"></div>
   </div>
 </template>
