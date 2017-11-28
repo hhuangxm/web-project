@@ -16,7 +16,8 @@
     </div>
     <!-- body -->
     <div class="h-main">
-      <el-row>
+      <router-view/>
+      <!-- <el-row>
         <el-col :span="6">
           <menu-bar></menu-bar>
         </el-col>
@@ -25,7 +26,7 @@
             <router-view/>
           </div>
         </el-col>
-      </el-row>
+      </el-row> -->
     </div>
   </div>
 
@@ -68,6 +69,7 @@ html body {
   height: 100%;
   width: 1140px;
   margin: 0 auto;
+  margin-top: 15px;
   /*border: 1px solid #ddd;*/
 }
 #app {
